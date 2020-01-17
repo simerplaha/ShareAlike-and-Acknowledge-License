@@ -55,7 +55,7 @@ And also to __NOT__ to create something new that might not be legally acceptable
 
 The License of this License is this License itself.
 
-### No Liability
+## No Liability
 **_Please note that I'm not a lawyer. The above work and this License is NOT reviewed by a professional lawyer._**
 
 ***This Licensed Work comes as is, without any warranty, and no Contributor(s) will

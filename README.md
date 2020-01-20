@@ -16,8 +16,8 @@ efforts and improves their knowledge on the project's subject.
 - Optionally give attribution to the contributors if requested by the author. 
 
 ## Why?
-Current open-source Licenses are great but can be either too restrictive (strong copyleft) that 
-they limit software usage by being viral and infectious or they are too relaxed (weak copyleft or permissive) 
+Current open-source Licenses are great! But they can be either too restrictive (strong copyleft) and limit software 
+usage by being viral and infectious or they are too relaxed (weak copyleft or permissive) 
 that they allow room for hoarding knowledge that prevents further creative work.
 
 This license asks for sharing similar/alike work and optionally attribution for contributors.

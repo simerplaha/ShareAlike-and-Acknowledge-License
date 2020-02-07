@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This License allows your to use, replicate, adapt, copy or do anything with this software as you like,
+This License allows you to use, replicate, adapt, copy or do anything with this software as you like,
 commercially or non-commercially, without imposing any restrictions on the license you choose.
 But it requires from you and your license to allow the Contributor(s) of this software, to copy
 __ONLY__ your modifications alike to this software, so the Contributor(s) can learn from your modifications,

@@ -1,6 +1,6 @@
 # ShareAlike and Acknowledge License
 
-[ShareAlike and Acknowledge License](/LICENSE.md) encourages sharing similar/alike work and attribution for contributors.
+[ShareAlike and Acknowledge License](/SHAREALIKE_AND_ACKNOWLEDGE_LICENSE.md) encourages sharing similar/alike work and attribution for contributors.
 
 ## Scope
 Covers both, software/libraries that allow dynamic linking and software that run remotely on a network.
@@ -53,9 +53,7 @@ And also to __NOT__ to create something new that might not be legally acceptable
 
 ## License
 
-The License of this License is this License itself.
-
-Adapted Work and Alike Work of this License requires acknowledgement.
+This license is licensed under [Creative Commons Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/legalcode).  
 
 ## No Liability
 **_Please note that I'm not a lawyer. The above work and this License is NOT reviewed by a professional lawyer._**
